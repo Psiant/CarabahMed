@@ -29,47 +29,33 @@ seeding_timei1e19:sequential_downloadi1e15:stop_when_readyi0e16:total_downloaded
 trackersll34:http://p2p.dl.mail.ru/announce.phpel31:http://retracker.local/announceel44:udp://tracker.openbittorrent.com:80/announceel42:udp://tracker.opentrackr.org:1337/announceee11:upload_modei0e17:upload_rate_limiti-1e8:url-listl31
 :http://pkg.dl.mail.ru/packages/45:http://gamecenter.vkplay.cdn-vk.net/packages/46:http://gamecenter.vkplay.cdn-vk.net/packages//47:http://gamecenter.vkplay.cdn-vk.net/packages///48:
 http://gamecenter.vkplay.cdn-vk.net/packages////49:http://gamecenter.vkplay.cdn-vk.net/packages/////50:http://gamecenter.vkplay.cdn-vk.net/packages//////51:
-http://gamecenter.vkplay.cdn-vk.net/packages///////
-52:http://gamecenter.vkplay.cdn-vk.net/packages////////
-53:http://gamecenter.vkplay.cdn-vk.net/packages/////////
-54:http://gamecenter.vkplay.cdn-vk.net/packages//////////
-37:http://gc-net.cdn.vkplay.ru/packages/
-38:http://gc-net.cdn.vkplay.ru/packages//
-39:http://gc-net.cdn.vkplay.ru/packages///
-40:http://gc-net.cdn.vkplay.ru/packages////
-41:http://gc-net.cdn.vkplay.ru/packages/////
-42:http://gc-net.cdn.vkplay.ru/packages//////
-43:http://gc-net.cdn.vkplay.ru/packages///////
-44:http://gc-net.cdn.vkplay.ru/packages////////
-45:http://gc-net.cdn.vkplay.ru/packages/////////
-46:http://gc-net.cdn.vkplay.ru/packages//////////
-36:http://gc-ru.cdn.vkplay.ru/packages/
-37:http://gc-ru.cdn.vkplay.ru/packages//
-8:http://gc-ru.cdn.vkplay.ru/packages///
-39:http://gc-ru.cdn.vkplay.ru/packages////
-40:http://gc-ru.cdn.vkplay.ru/packages/////
-41:http://gc-ru.cdn.vkplay.ru/packages//////
-42:http://gc-ru.cdn.vkplay.ru/packages///////
-43:http://gc-ru.cdn.vkplay.ru/packages////////
-44:http://gc-ru.cdn.vkplay.ru/packages/////////
-45:http://gc-ru.cdn.vkplay.ru/packages//////////
-37:http://vkplay-gc.cdn-vk.net/packages/
-38:http://vkplay-gc.cdn-vk.net/packages//
-39:http://vkplay-gc.cdn-vk.net/packages///
-40:http://vkplay-gc.cdn-vk.net/packages////
-41:http://vkplay-gc.cdn-vk.net/packages/////
-42:http://vkplay-gc.cdn-vk.net/packages//////
-43:http://vkplay-gc.cdn-vk.net/packages///////
-44:http://vkplay-gc.cdn-vk.net/packages////////
-45:http://vkplay-gc.cdn-vk.net/packages/////////
-46:http://vkplay-gc.cdn-vk.net/packages//////////
-36:http://vkplay-gc.cdn-vk.ru/packages/
-37:http://vkplay-gc.cdn-vk.ru/packages//
-38:http://vkplay-gc.cdn-vk.ru/packages///
-39:http://vkplay-gc.cdn-vk.ru/packages////
-40:http://vkplay-gc.cdn-vk.ru/packages/////
-41:http://vkplay-gc.cdn-vk.ru/packages//////
-42:http://vkplay-gc.cdn-vk.ru/packages///////
-43:http://vkplay-gc.cdn-vk.ru/packages////////
-44:http://vkplay-gc.cdn-vk.ru/packages/////////
-45:http://vkplay-gc.cdn-vk.ru/packages//////////ee
+---------------------------------------------------------------
+DESKTOP-0H6C2S7 Realm startup at 2026-5-11 19:16:01.075
+---------------------------------------------------------------
+19:16:01.075  ------------------------------------------------------
+19:16:01.075  2026-07-20 19:16:01
+19:16:01.075  Diablo II running under Windows .Net (Version 6.002)
+19:16:01.075  Vendor:  AMD
+19:16:01.075  Version: {Unknown} (Type 0, Family F, Model 8, Stepping 1, Brand 0)
+19:16:01.091  Speed: Approx. 2096 MHz
+19:16:01.091  Total Physical Memory: 2048.00MB
+19:16:01.091 
+19:16:01.122  Local IP: 192.168.3.3
+19:16:01.122  Computer name: DESKTOP-0H6C2S7
+19:16:01.122  ------------------------------------------------------
+19:16:01.122  
+19:16:01.138  imagehlp.dll loaded for better stack crawls.
+19:16:01.185  Detecting boards which support Direct3D...
+19:16:01.312  	Checking capabilities of AMD Radeon(TM) Vega 8 Graphics ...
+19:16:01.312  		VendorID = 0x00001002, DeviceID = 0x000015d8
+19:16:01.983  		Supports 32 bit cutscenes.
+19:16:02.065  		Video Memory Total= 4095.938 MB, Free= 4092.275 MB
+19:16:02.065  		Texture Memory Total= 4095.938 MB, Free= 4092.275 MB
+19:16:02.065  			Local Total= 1009.590 MB, Free= 1005.928 MB
+19:16:02.065  			AGP Total= 3086.348 MB, Free= 3086.348 MB
+19:16:02.065  		Supports 1555 textures.
+19:16:02.065  		
+19:16:02.378  Destroyed D3D window.
+19:16:03.577  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+
+19:16:03.595  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
