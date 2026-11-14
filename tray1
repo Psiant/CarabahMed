@@ -34,28 +34,53 @@ DESKTOP-0H6C2S7 Realm startup at 2026-5-11 19:16:01.075
 ---------------------------------------------------------------
 19:16:01.075  ------------------------------------------------------
 19:16:01.075  2026-07-20 19:16:01
-19:16:01.075  Diablo II running under Windows .Net (Version 6.002)
-19:16:01.075  Vendor:  AMD
-19:16:01.075  Version: {Unknown} (Type 0, Family F, Model 8, Stepping 1, Brand 0)
-19:16:01.091  Speed: Approx. 2096 MHz
-19:16:01.091  Total Physical Memory: 2048.00MB
-19:16:01.091 
-19:16:01.122  Local IP: 192.168.3.3
-19:16:01.122  Computer name: DESKTOP-0H6C2S7
-19:16:01.122  ------------------------------------------------------
-19:16:01.122  
-19:16:01.138  imagehlp.dll loaded for better stack crawls.
-19:16:01.185  Detecting boards which support Direct3D...
-19:16:01.312  	Checking capabilities of AMD Radeon(TM) Vega 8 Graphics ...
-19:16:01.312  		VendorID = 0x00001002, DeviceID = 0x000015d8
-19:16:01.983  		Supports 32 bit cutscenes.
-19:16:02.065  		Video Memory Total= 4095.938 MB, Free= 4092.275 MB
-19:16:02.065  		Texture Memory Total= 4095.938 MB, Free= 4092.275 MB
-19:16:02.065  			Local Total= 1009.590 MB, Free= 1005.928 MB
-19:16:02.065  			AGP Total= 3086.348 MB, Free= 3086.348 MB
-19:16:02.065  		Supports 1555 textures.
-19:16:02.065  		
-19:16:02.378  Destroyed D3D window.
-19:16:03.577  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
 
-19:16:03.595  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+
+
+[Key]
+VR=0000000000
+AP=0017857467
+AP2=0000000034
+CR=1793346854
+EX=1801295654
+SE=1801295654
+Version=All
+Applications=AntiSpam,Update,DrWebMac,FileDaemonUnix,DrWebUnix,DrWebOS2,DrWeb386,DrWebWCL,DrWebGUI,SpIDerMe,SpIDerXP,SpIDerMailHome,Scheduler,TheBatPlugin,SpIDerGate,Firewall
+Created=2026-10-30 (07:54) UTC
+Expires=2027-01-30 (07:54) UTC
+SubscriptionExpires=2027-01-30 (07:54) UTC
+Products=LHW-BK-3M-1-A8
+ClientType=Home
+ProductType=SS
+ProductSpec=SS
+
+[Dealer]
+Number=0010000000
+Name=Dr.Web (25)
+GV=432005
+P1=861F0EFA54F21031AECB81AEF87A7A92EED34B57E72DF9923A6F2F6AD67288C541645B74FE096067DAF4C9C592890664B72446CF339355A7F9949D98C6A6083F
+P2=50B0EE64BA36FD4FEF083B9B89D0D3401DE5A087A4836177ED3D8FE3A8C0E89C73A5294857C55E3F3A164DE5D62D9D96AF76613EC2FE050CCC9E1B710605CFAD
+P3=282FB92B336A086A0985814FEC886C52AC891304A159CFAE848C85B5300C4A7ED981AD065EB48F8A3E06F18BFDE2AB0394BA3819930C0B1F15E2AA256593222F
+P4=25A2C964836DCBF18541A8730AD9794F13B8C26CEE6EDA64A421B04095F86F47A20DE2B86E316E996ADE29D440C2B2CA49E2E85DCF80D54EDA2C309CA5038C55
+PS=5710556F2061BCECB42D378548E543F4E8494370275D6D7C7EB4938EFE23FA386C075906394F985B
+
+[User]
+Number=0153871126
+Name=Test_Key
+Computers=1
+UpdateURL=/xmlzone/beta/1250/windows
+GV=600001
+
+[Settings]
+MailServer=No
+FileServer=Yes
+InetGateway=No
+Users=Unlimited
+SpamFilter=Yes
+LotusSpamFilter=No
+KeyType=beta
+AppControl=Yes
+
+[Signature]
+Value=70E579B9E77B8D7DDAF40524542C3B81CF4EF01D375B50B60B5579FF7F89CCC80B1EF4FCECAC9F76
+
